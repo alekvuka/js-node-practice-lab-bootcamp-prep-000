@@ -1,6 +1,6 @@
 // write your code below!
 
-var name = "Alexnodejs index.js"
+var name = "Alex"
 var height = "74"
 
 console.log("Name:")
